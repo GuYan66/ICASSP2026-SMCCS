@@ -7,9 +7,9 @@ A Simple yet effective architecture for VI-ReID. No need for fancy, complicated 
 
 ## :fire: NEWS :fire:
 
-- [09/2024] **📣We submitted our paper to ICASSP 2026.**
+- [09/2025] **📣We submitted our paper to ICASSP 2026.**
 
-- [09/2024] **📣We released the code.**
+- [09/2025] **📣We released the code.**
 
 ## Demo Picture
                                        
